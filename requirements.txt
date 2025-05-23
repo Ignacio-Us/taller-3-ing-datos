@@ -3,3 +3,8 @@ jupyter
 numpy
 nbdev
 requests
+scikit-learn 
+matplotlib 
+seaborn 
+tensorflow 
+geopy
